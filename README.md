@@ -5,9 +5,9 @@
 - 📫 You can always send me an email on heydhruvpatel@gmail.com
 
 ![Dhruv's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=loggerd&layout=compact)
+stats](https://github-readme-stats.vercel.app/api?username=ixdhruv&layout=compact)
 ![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loggerd&layout=compact)
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixdhruv&layout=compact)
 
 <br />
 <br />
